@@ -15,9 +15,9 @@ import 'package:task_it/task_manager/component/todo_badge.dart';
 import 'package:task_it/task_manager/page/privacy_policy.dart';
 import 'package:task_it/task_manager/model/data/choice_card.dart';
 
-void main() => runApp(MyApp());
+void main() => runApp(TaskManagerHomePage_());
 
-class MyApp extends StatelessWidget {
+class TaskManagerHomePage_ extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     var app = MaterialApp(
@@ -43,7 +43,6 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
 class TaskManagerHomePage extends StatefulWidget {
   TaskManagerHomePage({Key key, this.title}) : super(key: key);
 
