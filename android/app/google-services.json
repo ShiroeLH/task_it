@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "525907608103",
+    "firebase_url": "https://hackathonyakis.firebaseio.com",
+    "project_id": "hackathonyakis",
+    "storage_bucket": "hackathonyakis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525907608103:android:662f935a8e82de1ec8c402",
+        "android_client_info": {
+          "package_name": "com.example.task_it"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525907608103-7q5k27ss4ca29488n5k6f2grbohov191.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa9bLQYyW_8Z46SsLOdkl3OEa6VfRQtto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525907608103-7q5k27ss4ca29488n5k6f2grbohov191.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
