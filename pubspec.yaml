@@ -37,7 +37,7 @@ dependencies:
   cupertino_icons: ^1.0.0
   font_awesome_flutter: ^8.8.1
   smooth_star_rating: ^1.1.1
-  intl: ^0.16.0
+  intl: ^0.15.7
 
   path_provider: ^1.4.2
   scoped_model: ^1.1.0
