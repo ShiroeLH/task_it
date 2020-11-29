@@ -1,4 +1,6 @@
 import 'package:task_it/design_course/home_design_course.dart';
+//import 'package:task_it/task_manager/task_manager_home_screen.dart';
+import 'package:task_it/task_manager/main.dart';
 import 'package:task_it/fitness_app/fitness_app_home_screen.dart';
 import 'package:task_it/hotel_booking/hotel_home_screen.dart';
 import 'package:flutter/widgets.dart';
@@ -15,7 +17,7 @@ class HomeList {
   static List<HomeList> homeList = [
     HomeList(
       imagePath: 'assets/task_manager/task_manager.png',
-      navigateScreen: DesignCourseHomeScreen(),
+      navigateScreen: TaskManagerHomePage(),
     ),
     /*
     HomeList(

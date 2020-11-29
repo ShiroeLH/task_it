@@ -35,7 +35,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         textTheme: AppTheme.textTheme,
       ),
-      home: OnBoarding(), //OnBoarding() //NavigationHomeScreen()
+      home: NavigationHomeScreen(), //OnBoarding() //NavigationHomeScreen()
     );
   }
 }
